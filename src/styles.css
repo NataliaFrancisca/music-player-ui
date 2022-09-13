@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap');
+
+:root{
+    --primary-color: #1caee5;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    height: auto;
+    background-color: rgb(28,174,229);
+}
+
