@@ -1,27 +1,23 @@
-# FirstProjectAngular
+# 📱 MUSIC PLAYER
+Esse projeto foi desenvolvido para treinar os conceitos básicos de Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+- Como criar componentes;
+- Criar estilos globais;
+- Como funciona as estruturas das pastas;
 
-## Development server
+### Informações:
+- Esse projeto foi baseado no **desafio #23 - Music Legends** da comunidade codelândia
+- Criado pelo [Iuri Silva](https://github.com/iuricode)
+- Canal da codelândia: [Codelândia](https://discord.gg/wNCWTVuxyz)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Stack utilizada
+- Angular;
+- HTML;
+- CSS;
 
-## Code scaffolding
+### Demonstração
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-images-6c299.appspot.com/o/music-player.png?alt=media&token=42fc0035-5b1a-4997-88ca-804c7c8505a0)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Referências
+- [Background Image](https://www.monophono.com.br/wp-content/uploads/2021/02/Navio-Pirata-Baiana-System-1.jpg)
+- [Icones](https://fonts.google.com/icons)
