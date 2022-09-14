@@ -118,3 +118,18 @@
     transform: scale(1.2);
     transition: all .3s ease-in-out;
 }
+
+@media screen and (max-width: 560px){
+    #song-content, #extra-btn{
+        display: none;
+    }
+
+    #player-buttons-content{
+        grid-template-columns: 100%;
+    }
+
+    #song-player{
+        justify-content: space-between;
+    }
+
+}
