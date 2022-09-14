@@ -132,7 +132,8 @@
         justify-content: space-between;
     }
 
-    #group-btn-center button span{
-        font-size: 1.2em;
+    :where(button span) #song-player, #group-btn-center{
+        font-size: 1.8em;
     }
+
 }
