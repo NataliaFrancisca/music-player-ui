@@ -1,8 +1,10 @@
 #container-player{
     min-height: 100vh;
+    height: auto;
 
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 86% 14%;
+    /* grid-template-rows: 86% 14%; */
+    grid-template-rows: 86vh 14vh;
 }
 

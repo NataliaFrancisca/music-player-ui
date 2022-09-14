@@ -132,4 +132,7 @@
         justify-content: space-between;
     }
 
+    #group-btn-center button span{
+        font-size: 1.2em;
+    }
 }
