@@ -130,6 +130,7 @@
 
     #song-player{
         justify-content: space-between;
+        margin: 0px;
     }
 
     :where(button span) #song-player, #group-btn-center{
